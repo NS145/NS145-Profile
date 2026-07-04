@@ -8,8 +8,6 @@ Passionate about building scalable backend applications, solving Data Structures
 
 ---
 
-# 💫 About Me
-
 🎓 Computer Science Student
 
 💻 Interested in **Java Development, Backend Engineering, and System Design**
@@ -28,9 +26,7 @@ Passionate about building scalable backend applications, solving Data Structures
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/n-s-balaji145)
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balajinapa123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/n-s-balaji145) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balajinapa123@gmail.com)
 
 <!-- Add Portfolio Later -->
 <!--
@@ -40,7 +36,6 @@ Passionate about building scalable backend applications, solving Data Structures
 ---
 
 # 🚀 Currently Working On
-
 - 🌳 Mastering Trees, Graphs and Dynamic Programming
 - ⚡ Building Backend Applications using Spring Boot
 - 🏗️ Learning System Design & Design Patterns
@@ -52,11 +47,7 @@ Passionate about building scalable backend applications, solving Data Structures
 # 💻 Tech Stack
 
 ### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Backend
 
