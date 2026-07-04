@@ -1,3 +1,5 @@
+Hello!, I'm Balaji
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Java+Backend+Developer;Spring+Boot+Enthusiast;Data+Structures+%26+Algorithms;Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
 ### 💻 Computer Science Student | Java Backend Developer | Aspiring Software Engineer
@@ -130,7 +132,7 @@ Replace **YOUR_LEETCODE_USERNAME** with your actual username.
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://github.com/NS145/NS145/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/NS145/NS145/output/github-contribution-grid-snake-dark.svg)![Snake animation](https://github.com/NS145/NS145/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
