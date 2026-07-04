@@ -86,7 +86,7 @@ Passionate about building scalable backend applications, solving Data Structures
 
 # 🧩 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/N_S_Balaji/?theme=dark&font=Nunito&ext=heatmap)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/N_S_Balaji?theme=nord&font=Nunito&ext=heatmap)](https://leetcode.com/u/N_S_Balaji/)
 
 ---
 
@@ -104,7 +104,7 @@ Passionate about building scalable backend applications, solving Data Structures
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/NS145/output/github-contribution-grid-snake-dark.svg)![Snake animation](https://github.com/NS145/NS145/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/NS145/NS145/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
