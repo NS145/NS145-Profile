@@ -1,4 +1,4 @@
-Hello!, I'm Balaji
+## Hello!, I'm Balaji
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Java+Backend+Developer;Spring+Boot+Enthusiast;Data+Structures+%26+Algorithms;Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
@@ -71,11 +71,6 @@ Passionate about building scalable backend applications, solving Data Structures
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=NS145&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
----
 
 # 🔥 GitHub Streak
 
@@ -89,17 +84,9 @@ Passionate about building scalable backend applications, solving Data Structures
 
 ---
 
-# 📊 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NS145&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 # 🧩 LeetCode
 
-Replace **YOUR_LEETCODE_USERNAME** with your actual username.
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/N_S_Balaji/?theme=dark&font=Nunito&ext=heatmap)
 
 ---
 
@@ -115,23 +102,15 @@ Replace **YOUR_LEETCODE_USERNAME** with your actual username.
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=NS145&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4)
-
----
-
 # 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/NS145/NS145/output/github-contribution-grid-snake-dark.svg)![Snake animation](https://github.com/NS145/NS145/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/NS145/output/github-contribution-grid-snake-dark.svg)![Snake animation](https://github.com/NS145/NS145/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 # 📈 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/N_S_Balaji/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/NS145)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/N_S_Balaji/)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/NS145)
 
 ---
 
