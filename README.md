@@ -1,7 +1,7 @@
 ## Hello!, I'm Balaji
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/NS145/NS145/output/github-stats-crt.svg">
+  <img src="https://raw.githubusercontent.com/NS145/NS145/output/github-stats-crt.svg" width="100%">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Java+Backend+Developer;Spring+Boot+Enthusiast;Data+Structures+%26+Algorithms;Aspiring+Software+Engineer)](https://git.io/typing-svg)
