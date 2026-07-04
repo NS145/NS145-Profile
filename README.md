@@ -130,15 +130,13 @@ Replace **YOUR_LEETCODE_USERNAME** with your actual username.
 
 # 🐍 Contribution Snake
 
-> Requires GitHub Actions to generate automatically.
-
 ![Snake animation](https://github.com/NS145/NS145/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 # 📈 Coding Profiles
 
-- 💻 LeetCode *https://leetcode.com/u/N_S_Balaji/*
+- 💻 LeetCode https://leetcode.com/N_S_Balaji/
 - 🚀 GitHub: https://github.com/NS145
 
 ---
