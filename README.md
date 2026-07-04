@@ -1,6 +1,6 @@
-# Hi 👋 I'm Balaji
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Java+Backend+Developer;Spring+Boot+Enthusiast;Data+Structures+%26+Algorithms;Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
-### 💻 Java Backend Developer | Computer Science Student | Aspiring Software Engineer
+### 💻 Computer Science Student | Java Backend Developer | Aspiring Software Engineer
 
 Passionate about building scalable backend applications, solving Data Structures & Algorithms problems, and continuously learning modern software engineering practices.
 
@@ -136,8 +136,9 @@ Replace **YOUR_LEETCODE_USERNAME** with your actual username.
 
 # 📈 Coding Profiles
 
-- 💻 LeetCode https://leetcode.com/N_S_Balaji/
-- 🚀 GitHub: https://github.com/NS145
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/N_S_Balaji/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/NS145)
 
 ---
 
